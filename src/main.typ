@@ -100,11 +100,15 @@ Libraries (thrust, Cub, libcu++, cuDNN etc..) simplify programming.
 
 == The Course.
 
-Exercises on implementing GPU versions of given C++ code snippest.
+- Free Nvidia Course for people in education etc. Part of a scheme to get people buying their self acreditied programing and software courses.
 
-And detailed introducitons on alot of parts of CUDA programming.
+- Exercises on implementing GPU versions of given C++ code snippest.
 
-Mostly focuses around using Thrust to make GPU implementations of CPU C++ code.
+- Detailed introducitons on alot of parts of CUDA programming.
+
+- Mostly focuses around using Thrust to make GPU implementations of CPU C++ code.
+
+- If you are interested lookout for opertunities to signup sent from the School admin people. It usually happends once a year.
 
 == What is Thrust?
 
